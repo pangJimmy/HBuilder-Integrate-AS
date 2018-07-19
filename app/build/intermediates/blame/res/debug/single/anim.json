@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\studiowork\\HBuilder-Integrate-AS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dcloud_slide_in_from_top.xml",
+        "source": "C:\\Users\\pangshanwei\\.android\\build-cache\\b817dffdf87331d12a893a7426617fe96ad0439f\\output\\res\\anim\\dcloud_slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\studiowork\\HBuilder-Integrate-AS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dcloud_slide_static.xml",
+        "source": "C:\\Users\\pangshanwei\\.android\\build-cache\\b817dffdf87331d12a893a7426617fe96ad0439f\\output\\res\\anim\\dcloud_slide_static.xml"
+    },
+    {
+        "merged": "D:\\studiowork\\HBuilder-Integrate-AS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dcloud_slide_in_from_right.xml",
+        "source": "C:\\Users\\pangshanwei\\.android\\build-cache\\b817dffdf87331d12a893a7426617fe96ad0439f\\output\\res\\anim\\dcloud_slide_in_from_right.xml"
+    },
+    {
+        "merged": "D:\\studiowork\\HBuilder-Integrate-AS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dcloud_slide_right_in.xml",
+        "source": "C:\\Users\\pangshanwei\\.android\\build-cache\\b817dffdf87331d12a893a7426617fe96ad0439f\\output\\res\\anim\\dcloud_slide_right_in.xml"
+    },
+    {
+        "merged": "D:\\studiowork\\HBuilder-Integrate-AS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dcloud_slide_out_to_top.xml",
+        "source": "C:\\Users\\pangshanwei\\.android\\build-cache\\b817dffdf87331d12a893a7426617fe96ad0439f\\output\\res\\anim\\dcloud_slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\studiowork\\HBuilder-Integrate-AS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dcloud_slide_right_out.xml",
+        "source": "C:\\Users\\pangshanwei\\.android\\build-cache\\b817dffdf87331d12a893a7426617fe96ad0439f\\output\\res\\anim\\dcloud_slide_right_out.xml"
+    },
+    {
+        "merged": "D:\\studiowork\\HBuilder-Integrate-AS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\dcloud_slide_out_to_right.xml",
+        "source": "C:\\Users\\pangshanwei\\.android\\build-cache\\b817dffdf87331d12a893a7426617fe96ad0439f\\output\\res\\anim\\dcloud_slide_out_to_right.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Thu Jul 19 23:59:34 CST 2018
+base.0=D\:\\studiowork\\HBuilder-Integrate-AS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2100a4d90c28c88d2148a654c921610951738634
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\studiowork\\HBuilder-Integrate-AS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_795a70a9a69e56829a4dc2dbb7a90548cc2fa96a\\classes.dex
+base.1=D\:\\studiowork\\HBuilder-Integrate-AS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_795a70a9a69e56829a4dc2dbb7a90548cc2fa96a
+file.0=D\:\\studiowork\\HBuilder-Integrate-AS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2100a4d90c28c88d2148a654c921610951738634\\classes.dex
